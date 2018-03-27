@@ -1,1 +1,10 @@
-<code_scheme name="Default" />
+<code_scheme name="Default">
+  <TypeScriptCodeStyleSettings>
+    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
+  </TypeScriptCodeStyleSettings>
+  <codeStyleSettings language="TypeScript">
+    <indentOptions>
+      <option name="USE_TAB_CHARACTER" value="true" />
+    </indentOptions>
+  </codeStyleSettings>
+</code_scheme>
