@@ -4,7 +4,6 @@
       <mapping pattern=".configure.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="HorizontalGlassRadioButtons.tsx" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
-      <mapping ext="sol" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
