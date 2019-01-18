@@ -3,6 +3,9 @@
     <keyboard-shortcut first-keystroke="meta 1" />
     <keyboard-shortcut first-keystroke="ctrl space" />
   </action>
+  <action id="ActivateRemoteHostToolWindow">
+    <keyboard-shortcut first-keystroke="ctrl r" />
+  </action>
   <action id="ChangesView.Diff" />
   <action id="CodeCompletion" />
   <action id="CompareTwoFiles" />
@@ -11,6 +14,7 @@
   <action id="DatabaseView.CopyAction" />
   <action id="Diff.ShowDiff" />
   <action id="FileChooser.GotoDesktop" />
+  <action id="Run" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
   <action id="XDebugger.CopyWatch" />
