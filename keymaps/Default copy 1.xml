@@ -49,6 +49,9 @@
   <action id="Images.Editor.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
   </action>
+  <action id="QuickImplementations">
+    <keyboard-shortcut first-keystroke="meta y" />
+  </action>
   <action id="Run" />
   <action id="RunDashboard.CopyConfiguration" />
   <action id="SendEOF" />
@@ -57,6 +60,9 @@
   </action>
   <action id="UML.ZoomOut">
     <keyboard-shortcut first-keystroke="meta subtract" />
+  </action>
+  <action id="WebDeployment.BrowseServers">
+    <keyboard-shortcut first-keystroke="alt space" />
   </action>
   <action id="XDebugger.CopyWatch" />
   <action id="openAssertEqualsDiff" />
