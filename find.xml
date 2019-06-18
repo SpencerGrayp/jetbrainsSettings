@@ -15,8 +15,8 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
+    <mask>*php</mask>
     <mask>*ts</mask>
     <mask>*tsx</mask>
-    <mask>*php</mask>
   </component>
 </application>
