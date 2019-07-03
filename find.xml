@@ -16,7 +16,7 @@
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
     <mask>*ts</mask>
-    <mask>*tsx</mask>
     <mask>*php</mask>
+    <mask>*tsx</mask>
   </component>
 </application>
