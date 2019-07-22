@@ -15,9 +15,9 @@
     <mask>*.php</mask>
     <mask>*.ts</mask>
     <mask>*.tsx</mask>
-    <mask>*ts</mask>
     <mask>*scss</mask>
     <mask>*php</mask>
     <mask>*tsx</mask>
+    <mask>*ts</mask>
   </component>
 </application>
