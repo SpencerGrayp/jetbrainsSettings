@@ -1,11 +1,12 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
+      <mapping pattern=".configure.php.swp" type="PLAIN_TEXT" />
       <mapping pattern="HorizontalGlassRadioButtons.tsx" type="PLAIN_TEXT" />
       <mapping pattern="handlefailedleadwebfromhcl.php" type="PLAIN_TEXT" />
-      <mapping pattern=".configure.php.swp" type="PLAIN_TEXT" />
       <mapping ext="plist" type="PLAIN_TEXT" />
       <mapping pattern=".tsx" type="TypeScript" />
+      <mapping ext="vm" type="TypeScript JSX" />
     </extensionMap>
   </component>
 </application>
